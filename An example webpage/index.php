@@ -34,6 +34,11 @@
         <input type="radio" name="Q2" value="3">
         <input type="radio" name="Q2" value="2">
       </div>
+      <br>What is 1 - 1?<br>
+      <input type="radio" name="Q3" value="5">
+      <input type="radio" name="Q3" value="4">
+      <input type="radio" name="Q3" value="3">
+      <input type="radio" name="Q3" value="2">
       <br><button type="button" name="button">Submit Answers</button>
     </form>
   </body>
